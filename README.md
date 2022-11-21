@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## README
 
-########## 项目
+### 项目
 
 001 SpringBootMall == MumuFresh 
 模拟商城项目
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 004 SingleLeague
 社区论坛项目 -- 进行中。。。。。。
 
-########## 框架
+### 框架
 
 005 JavaWeb
 网页设计Web技巧
@@ -51,7 +51,7 @@ springmvc 学习代码
 007 spring-boot-learn
 springboot 学习代码
 
-########## Java
+### Java
 
 008 LearningJava
 Java学习集大成项目
@@ -59,7 +59,7 @@ Java学习集大成项目
 009 JavaHomework
 Java程序设计期末大作业
 
-######### 算法
+### 算法
 
 010 SprinkleBlood
 热血刷题项目
