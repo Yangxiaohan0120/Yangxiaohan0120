@@ -25,44 +25,13 @@ Here are some ideas to get you started:
 
 ## README
 
-### 项目
+My website
 
-[001 SpringBootMall == MumuFresh](https://github.com/Yangxiaohan0120/MumuFresh) <br>
-模拟商城项目
+![知识边界](https://cheesecakefactory.super.site/)
 
-[002 SecKill](https://github.com/Yangxiaohan0120/SecKill) <br>
-秒杀项目
+![image](https://github.com/Yangxiaohan0120/Yangxiaohan0120/assets/45283690/03fbf5e3-dd74-46ac-8b16-3df76a231fd7)
 
-[003 WebSite](https://github.com/Yangxiaohan0120/WebSite) <br> 
-数字油画展示网页
+![少有人走的路](https://yangxiaohan0120.github.io/)
 
-[004 SingleLeague](https://github.com/Yangxiaohan0120/SingleLeague) <br>
-社区论坛项目 -- 进行中。。。。。。
+![image](https://github.com/Yangxiaohan0120/Yangxiaohan0120/assets/45283690/6a8bbc96-840b-4d36-ac4f-52472e95fa86)
 
-### 框架
-
-[005 JavaWeb](https://github.com/Yangxiaohan0120/JavaWeb) <br>
-网页设计Web技巧
-
-
-[006 springmvc](https://github.com/Yangxiaohan0120/springmvc) <br>
-springmvc 学习代码
-
-[007 spring-boot-learn](https://github.com/Yangxiaohan0120/spring-boot-learn) <br>
-springboot 学习代码
-
-### Java
-
-[008 LearningJava](https://github.com/Yangxiaohan0120/LearningJava) <br>
-Java学习集大成项目
-
-[009 JavaHomework](https://github.com/Yangxiaohan0120/JavaHomework) <br>
-Java程序设计期末大作业
-
-### 算法
-
-[010 SprinkleBlood](https://github.com/Yangxiaohan0120/SprinkleBlood) <br>
-热血刷题项目
-
-[011 CodingInterviews2](https://github.com/Yangxiaohan0120/CodingInterviews2) <br>
-剑指offer2解法记录
